@@ -168,17 +168,7 @@ If no limits are reached, the environment will terminate after 60 seconds of sim
  TODO
 
 
-### Motivation
 
-I created this environment for learning purposes, from one side it satisfies my curiosity in understanding how wind turbines work and how they are controlled and also my interest in learning AI techniques. I thought that opening this challenge to the AI community could bring interesting results, and who knows if we can eventually improve existing drivers with them.  
-
-###  Acknowledgments
-
-Special thanks to @andrewning for creating the CCBlade code and the NREL Wind team in general for opening their work to the community. Also thanks to the OpenAI for starting the Gym initiative and contributing to democratise the AI. Thanks to @cvillescas for supporting and helping me to understand the theory. 
-
-### References
-
-<a name="ref1">[1]</a>: S. Andrew Ning. A simple solution method for the blade element momentum equations with guaranteed convergence. Wind Energy, June 2013. doi:10.1002/we.1636.
 
 <a name="ref2">[2]</a>: Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, Wojciech Zaremba. OpenAI Gym. June 2016. arXiv:1606.01540.
 
