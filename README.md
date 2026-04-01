@@ -167,8 +167,9 @@ If no limits are reached, the environment will terminate after 60 seconds of sim
  ![Image of Case: Neutral action](README_stepwise.png)
  TODO
 
+### References
 
-
+<a name="ref1">[1]</a>: S. Andrew Ning. A simple solution method for the blade element momentum equations with guaranteed convergence. Wind Energy, June 2013. doi:10.1002/we.1636.
 
 <a name="ref2">[2]</a>: Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, Wojciech Zaremba. OpenAI Gym. June 2016. arXiv:1606.01540.
 
