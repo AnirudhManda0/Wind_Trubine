@@ -1,8 +1,8 @@
-# gym-wind-turbine
+# wind-turbine
 OpenAI Gym environment which reproduces the behaviour of a wind turbine realistically using CCBlade aeroelastic code
 
 ## Introduction
-The _gym-wind-turbine_ is a [OpenAI Gym](https://gym.openai.com/) environment which reproduces the behaviour of a wind turbine realistically. Behind the  scenes, the environment interfaces with the aerolastic code called [CCBlade](https://github.com/WISDEM/CCBlade)
+The wind-turbine_ is a [OpenAI Gym](https://gym.openai.com/) environment which reproduces the behaviour of a wind turbine realistically. Behind the  scenes, the environment interfaces with the aerolastic code called [CCBlade](https://github.com/WISDEM/CCBlade)
  in order to compute the aerodynamic forces. Then, a simplified model of the drivetrain is added so that a driver can be implemented. The aim is to create a controller using reinforcement learning algorithms which can maximise the energy produced (power) and minimise the unwanted forces (thrust). The progress of the learning process can be also monitored by plotting metrics in real time.
  
  Here is an example of the real control in action which can be used as a reference.
